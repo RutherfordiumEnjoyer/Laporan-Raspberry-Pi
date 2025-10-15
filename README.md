@@ -38,6 +38,7 @@ Sehingga tampilan dari Raspberry Pi kit seperti berikut:
     ```
 
     Hasil yang diharapkan adalah sebagai berikut:
+    
      <img width="640" height="800" alt="Image" src="https://github.com/user-attachments/assets/e3665cfa-ba61-4c4e-ba9a-3e68b3c525ba" />
 
 
